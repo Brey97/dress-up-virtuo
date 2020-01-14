@@ -89,7 +89,7 @@ input, button, textarea,
     button {
       position: relative;
       display: block;
-      margin: 2; padding: 0 25px;
+      margin: 20; padding: 0 25px;
       width: 200px; height: 30px;
       font-size: 12px;
       font-weight: 400;
