@@ -9,7 +9,8 @@ body {
 }
 
     h1 {
-      text-align: center
+      margin-left: auto;
+      margin-right: auto;
       height: 20px;
       font-size: 28px;
       font-weight: 400;
