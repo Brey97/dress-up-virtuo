@@ -10,6 +10,9 @@ body {
 
     h1 {
       text-align: center
+      height: 20px;
+      font-size: 28px;
+      font-weight: 400;
     }
 
     h2 {
