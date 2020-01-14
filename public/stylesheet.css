@@ -2,10 +2,6 @@
   box-sizing: border-box;
   outline: none;
 }
-body, html {
-  position: relative;
-  height: 100%;
-}
 body {
   background: #dce1e3;
   font-family: 'Roboto';
