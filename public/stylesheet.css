@@ -65,9 +65,10 @@ body {
       color: #608a71;
     }
     button {
+      position: relative;
+      display: block;
       margin-left: auto;
       margin-right: auto;
-      padding: 0 25px;
       width: 200px; height: 30px;
       font-size: 12px;
       font-weight: 400;
