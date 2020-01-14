@@ -57,8 +57,8 @@ input, button, textarea,
       position: relative;
       display: block;
       margin: 0; padding: 0 25px;
-      width: 300px; height: 60px;
-      font-size: 1px;
+      width: 150px; height: 60px;
+      font-size: 12px;
       font-weight: 400;
       color: #c1c9cc;
       line-height: 60px;
