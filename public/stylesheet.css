@@ -16,6 +16,8 @@ body {
       position: relative;
       display: block;
       margin: 0; padding: 0 25px;
+      margin-left: auto;
+      margin-right: auto; 
       height: 30px;
       font-size: 20px;
       font-weight: 200;
@@ -27,6 +29,8 @@ body {
       position: relative;
       display: block;
       margin: 0; padding: 0 10px;
+      margin-left: auto;
+      margin-right: auto;
       height: 20px;
       font-size: 28px;
       font-weight: 400;
@@ -36,6 +40,8 @@ body {
     input {
       position: relative;
       display: block;
+      margin-left: auto;
+      margin-right: auto;
       margin: 0; padding: 0 25px;
       width: 200px; height: 30px;
       font-size: 12px;
