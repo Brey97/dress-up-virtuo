@@ -97,25 +97,3 @@ input, button, textarea,
       background: #a1d3b5;
       color: #608a71;
     }
-  textarea {
-    z-index: 2;
-    position: relative;
-    display: inline-block;
-    vertical-align: middle;
-    width: 250px; height: 200px;
-    max-width: 250px; max-height: 200px;
-    padding: 25px;
-    border: 0;
-    border-radius: 0 6px 6px 0;
-    background: #859299;
-    box-shadow: 0 2px 2px 1px rgba(0,0,0,.1);
-    white-space: normal;
-    font-size: 12px;
-    font-weight: 400;
-    color: #fff;
-
-    transform: translateX(-275px)
-  }
-  .generated textarea {
-    transform: translateX(0);
-  }
