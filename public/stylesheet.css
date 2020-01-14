@@ -11,22 +11,6 @@ body {
   font-family: 'Roboto';
   color: #fff;
 }
-input, button, textarea,
-.generator {
-  transition: all .4s ease-in-out;
-}
-.generator {
-  position: absolute;
-  display: block;
-  top: 50%; left: 50%;
-  transform: translate(-50%,-50%);
-  font-size: 0;
-  white-space: nowrap;
-  margin-left: 125px;
-}
-.generator.generated {
-  margin-left: 0;
-}
 
     h1 {
       position: relative;
