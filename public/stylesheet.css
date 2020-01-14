@@ -28,19 +28,6 @@ input, button, textarea,
   margin-left: 0;
 }
 
-
-
-    h1 {
-      position: relative;
-      display: block;
-      margin: 0; padding: 0 10px;
-      height: 20px;
-      font-size: 28px;
-      font-weight: 400;
-      color: #859299;
-      line-height: 60px;
-    }
-
     h2 {
       position: relative;
       display: block;
@@ -52,6 +39,16 @@ input, button, textarea,
       line-height: 30px;
     }
 
+    h1 {
+      position: relative;
+      display: block;
+      margin: 0; padding: 0 10px;
+      height: 20px;
+      font-size: 28px;
+      font-weight: 400;
+      color: #859299;
+      line-height: 60px;
+    }
     input {
       position: relative;
       display: block;
