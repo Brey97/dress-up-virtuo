@@ -14,6 +14,13 @@ body {
 
     h1 {
       text-align: center
+      display: block;
+      padding: 0 25px;
+      height: 30px;
+      font-size: 20px;
+      font-weight: 200;
+      color: #859299;
+      line-height: 30px;
     }
 
     h2 {
